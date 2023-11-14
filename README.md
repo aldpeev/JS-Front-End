@@ -1,2 +1,5 @@
 # JS-Front-End
- SoftUni -Java Script Front-end
+
+- Here are all the labs and exercises I've completed as part of the JS-Front-end course provided by SoftUni.
+
+- The "JS Front-End" module will lay down basic knowledge of HTML, CSS and JS. Students will acquire basic knowledge in web development, web browsers, HTML/CSS/DOM development tools and develop practical skills in using the Web Content Description Language - HTML - and the Web Content Styling Language - CSS. Skills are acquired for properly structuring the Front-End part of web applications and ways to style it according to a given design. In the second part of the module, they will get basic knowledge of the JavaScript language, such as syntax basics, working with arrays, matrices, objects, classes and writing functions. Students will develop their algorithmic thinking. They will be able to work with the DOM tree, make manipulations on it and work with "events". Functional and OOP approaches to JavaScript programming will be covered. HTTP and REST data transfer concepts will be studied.
